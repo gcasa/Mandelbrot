@@ -1,0 +1,5 @@
+build/
+obj/
+Mandelbrot.app/
+*.d
+*.o

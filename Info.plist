@@ -7,6 +7,8 @@
     <string>English</string>
     <key>CFBundleExecutable</key>
     <string>Mandelbrot</string>
+    <key>CFBundleIconFile</key>
+    <string>Mandelbrot</string>
     <key>CFBundleIdentifier</key>
     <string>local.mandelbrot.openstep</string>
     <key>CFBundleName</key>
